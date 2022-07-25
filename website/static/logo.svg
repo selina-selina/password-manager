@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="45" viewBox="0 0 380 45">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 34px;
+      }
+
+      .cls-1 {
+        text-anchor: middle;
+        fill: #2d00f7;
+        font-family: "Lucida Sans Typewriter";
+      }
+
+      .cls-2 {
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: "Cascadia Code";
+      }
+    </style>
+  </defs>
+  <text id="Password_Manager" data-name="Password Manager" class="cls-1" transform="translate(189.468 36.787) scale(1.17)"><tspan x="0"><tspan class="cls-2">Password </tspan><tspan class="cls-3">Manager</tspan></tspan></text>
+</svg>
